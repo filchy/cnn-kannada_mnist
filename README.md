@@ -3,10 +3,10 @@ This convolutional neural network was used for the **Kaggle** "Kannada MNIST" co
 ![](result_img/result.png)
 
 ## Dependencies
-* [Tensorflow](https://www.tensorflow.org/)
+* [tensorflow](https://www.tensorflow.org/)
 * [scikit-learn](https://scikit-learn.org/stable/)
-* [NumPy](https://numpy.org/)
-* [Panda](https://pandas.pydata.org/)
+* [numpy](https://numpy.org/)
+* [panda](https://pandas.pydata.org/)
 
 ## CNN model
 ![](model_img/cnn_model.png)
