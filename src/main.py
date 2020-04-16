@@ -19,8 +19,6 @@ if __name__ == "__main__":
     test = pd.read_csv(TEST)
     train = pd.read_csv(TRAIN)
 
-    print("Data loaded")
-
     test_data = test.iloc[:, 1:].values
 
     X_train = train.iloc[:, 1:].values
