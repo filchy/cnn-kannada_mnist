@@ -1,6 +1,6 @@
 # Convolutional Neural Network in Python
 - [Kannada MNIST competition](https://www.kaggle.com/c/Kannada-MNIST/overview)
-######
+
 - For running type in comand prompt **sh run.sh**
 ######
 ![](result_img/result.png)
