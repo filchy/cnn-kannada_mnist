@@ -1,5 +1,5 @@
 # Convolutional Neural Network in Python
-This convolutional neural network was used for the **Kaggle** "Kannada MNIST" contest and **63** out of **1214** participants which is **top 6%**.
+- [Kannada MNIST competition](https://www.kaggle.com/c/Kannada-MNIST/overview)
 ######
 - For running type in comand prompt **sh run.sh**
 ######
