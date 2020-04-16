@@ -9,7 +9,7 @@ This convolutional neural network was used for the **Kaggle** "Kannada MNIST" co
 * [tensorflow](https://www.tensorflow.org/)
 * [scikit-learn](https://scikit-learn.org/stable/)
 * [numpy](https://numpy.org/)
-* [panda](https://pandas.pydata.org/)
+* [pandas](https://pandas.pydata.org/)
 
 ## CNN model
 ![](model_img/cnn_model.png)
